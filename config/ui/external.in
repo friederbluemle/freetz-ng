@@ -36,7 +36,7 @@ if EXTERNAL_ENABLED
 		depends on FREETZ_PACKAGE_DOWNLOADER
 		help
 			Prepare files for Downloader package.
-			Downloader loads usualy files from a http or ftp server into the RAM of the box.
+			Downloader loads usually files from a http or ftp server into the RAM of the box.
 
 	config EXTERNAL_SUBDIRS
 		bool "Keep subdirectories"
